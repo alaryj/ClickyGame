@@ -1,0 +1,20 @@
+nav {
+    background-color: #889299;
+}
+
+.brand-logo.center {
+    font-size: 50px;
+    font-family: 'Bungee', cursive;
+    text-shadow: -4px 2px 3px rgba(125,255,240,0.62), -7px 6px 3px rgba(108,173,220,0.62);
+    padding: 0,20,0,20;
+}
+
+/* Left text */
+.left {
+    font-family: 'Bungee', cursive;
+}
+
+/* Right text */
+.right {
+    font-family: 'Bungee', cursive;
+}

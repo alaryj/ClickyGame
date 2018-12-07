@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Penelope",
+    "image": "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/4/47/Penelope_looney_tunes.png/revision/latest?cb=20170929051929"
+  },
+  {
+    "id": 2,
+    "name": "Gossamer",
+    "image": "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/b/b0/Gosamer_300.gif/revision/latest?cb=20180416165910"
+  },
+  {
+    "id": 3,
+    "name": "Pepe le Pew",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Pep%C3%A9_Le_Pew.svg/220px-Pep%C3%A9_Le_Pew.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "Pete Puma",
+    "image": "https://vignette.wikia.nocookie.net/looneytunesshow/images/9/99/PeteTransparent.png/revision/latest?cb=20171223061948"
+  },
+  {
+    "id": 5,
+    "name": "Felix the Cat",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Felix_the_cat.svg/1200px-Felix_the_cat.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "Woody Woodpecker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/Woody_Woodpecker.png"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607"
+  },
+  {
+    "id": 8,
+    "name": "Michigan J. Frog",
+    "image": "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/e/ed/Michigan_J._Frog.png/revision/latest?cb=20170204012525"
+  },
+  {
+    "id": 9,
+    "name": "Sylvester the Cat",
+    "image": "https://vignette.wikia.nocookie.net/warner-bros-characters/images/7/73/Sylvester_the_Cat.svg.png/revision/latest?cb=20160915214520"
+  },
+  {
+    "id": 10,
+    "name": "Elmer Fudd",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/ElmerFudd.gif/220px-ElmerFudd.gif"
+  },
+  {
+    "id": 11,
+    "name": "Marvin the Martian",
+    "image": "https://i.pinimg.com/originals/de/6d/36/de6d36e97b85c1ed9a9591c239b17f77.png"
+  },
+  {
+    "id": 12,
+    "name": "Road Runner",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ee/Roadrunner_looney_tunes.png"
+  }
+]
